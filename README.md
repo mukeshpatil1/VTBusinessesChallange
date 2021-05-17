@@ -2,7 +2,7 @@
 VTBusinessesChallange is a restaurant search for iOS by Yelp Fusion API.
 
 ## How to run
-- Clone this repository.
+- To run the this project, clone the repo, and run pod install from the main directory first.
 - Go to (https://github.com/mukeshpatil1/VTBusinessesChallange.git) home, and make your own API key.
 - Copy the API key and replace `// + "YOUR API KEY HERE"` part with it on line 14 in `YelpAPIService.swift`.
 
