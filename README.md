@@ -13,9 +13,9 @@ VTBusinessesChallange is a restaurant search for iOS by Yelp Fusion API.
 
 - Yelp Fusion API: Business search
 
-- MVVM pattern
+- MVVM Design Architecture 
 
-- RxSwift/RxCocoa
+- RxSwift
 
 - RxDataSources: two data sources with one table view
 
