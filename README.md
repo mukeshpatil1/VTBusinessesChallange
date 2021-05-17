@@ -1,5 +1,5 @@
 # VTBusinessesChallange v1.0
-VTBusinessesChallange is a restaurant search for iOS by Yelp Fusion API.
+VTBusinessesChallange is a restaurant search for iOS by Yelp API.
 
 ## How to run
 - To run the this project, clone the repo, and run pod install from the main directory first.
@@ -11,7 +11,7 @@ VTBusinessesChallange is a restaurant search for iOS by Yelp Fusion API.
 
 ## What you can see in the code
 
-- Yelp Fusion API: Business search
+- Yelp API: Business search
 
 - MVVM Design Architecture 
 
