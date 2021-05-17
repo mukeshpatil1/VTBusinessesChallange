@@ -1,4 +1,4 @@
-# VTBusinessesChallange
+# VTBusinessesChallange v1.0
 VTBusinessesChallange is a restaurant search for iOS by Yelp Fusion API.
 
 ## How to run
